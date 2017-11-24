@@ -1,2 +1,2 @@
 # GraphCN
-Graph convolutional network
+Graph convolutional network for graph cut problem
